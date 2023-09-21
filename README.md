@@ -6,5 +6,5 @@ Inspired by [craftzdog](https://www.craftz.dog/) and
 ## Cloning / Forking
 
 Please review the
-[license](https://https://github.com/Alifian-Zulfaani/link-in-bio/LICENSE) and
+[license](https://github.com/Alifian-Zulfaani/link-in-bio/blob/master/LICENSE) and
 remove all of my personal information (resume, blog posts, images, etc.).
